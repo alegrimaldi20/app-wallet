@@ -1,0 +1,18 @@
+
+.outline {
+    background: transparent;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.fill {
+    
+    background: rgba(255, 255, 255, 0.8);
+    color: black;
+}
+
+.button{
+    border: rgba(255, 255, 255, 0.8) 1px solid;
+    padding: 14px;
+    text-align: center;
+    cursor: pointer;
+}

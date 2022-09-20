@@ -1,0 +1,48 @@
+.content {
+    display: grid;
+    grid-template-columns: 80px auto 120pX;
+    font-size: 14px;
+    padding: 15px 0px;
+}
+.border_top {
+    border-top: rgba(255, 255, 255, 0.556) 1px solid;
+}
+.img {
+    height: 30px;
+    width: 30px;
+}
+
+.img_background {
+    background: transparent;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    border-radius: 50%;
+    border: rgba(255, 255, 255, 0.6) 1px solid;
+}
+
+.subtitle {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.subsubtitle {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.right {
+    width: 100%;
+    text-align: right;
+}
+
+.transaction_info {
+    margin-top: 30px;
+    max-height: 300px;
+    overflow-y: scroll;
+    height: fit-content;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

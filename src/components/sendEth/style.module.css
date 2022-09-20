@@ -1,0 +1,47 @@
+.topbar{
+    border-bottom: rgba(255, 255, 255, 0.3) 1px solid;
+    padding-bottom: 20px;
+}
+.title{
+    position: absolute;
+    right: 40px;
+    top:40px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.move_top{
+    position: relative;
+    top: -10px;
+}
+.left{
+    height: 30px;
+    width: 30px;
+}
+.grid{
+
+    display: grid;
+    grid-template-columns: auto auto;
+    gap:20px;
+    padding-top: 20px;
+    border-top: rgba(255, 255, 255, 0.3) 1px solid;
+    margin-top: 20px;
+
+    position: absolute;
+    bottom: 40px;
+    width: calc(100% - 80px)
+}
+
+.input_title{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.Cancel-btn:hover {
+    background-color: #22dfe6e2;
+}
+
+.Next-btn:hover {
+    background-color: #22dfe6e2;
+}
+

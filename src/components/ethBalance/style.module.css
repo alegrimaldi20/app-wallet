@@ -1,0 +1,44 @@
+.body {
+    margin-top: 30px;
+    background: rgba(211, 226, 232, 0.864);
+    width: 100%;
+    height: fit-content;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.content {
+    padding: 25px;
+    text-align: center;
+}
+.balance {
+    color: rgba(1, 1, 1, 1);
+    font-size: 40px;
+    font-weight:900;
+}
+.balanceInUSD {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: rgba(1, 1, 1, 0.8);
+    font-weight: 600;
+}
+.img {
+    height: 30px;
+    width: 30px;
+}
+.img_background{
+    background: #25a9bb;
+    height: 30px;
+    width: 30px;
+    padding: 20px;
+    border-radius: 50%;
+    margin: auto;
+    
+}
+.send{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: rgba(1, 1, 1, 1);
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}

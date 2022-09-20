@@ -1,0 +1,19 @@
+.card {
+    width: 400px;
+    height: 650px;
+    margin: auto;
+    background: rgba(10, 9, 9, 0.949);
+    box-shadow: 0 8px 32px 0 rgba(39, 66, 140, 0.899);
+    backdrop-filter: blur(3px);
+    border-radius: 6px;
+    padding: 45px;
+}
+
+@media only screen and (max-width: 900px) {
+    .card {
+        width: calc(100% - 80px);
+        height: 100vh;
+        background: transparent;
+        box-shadow: none;
+    }
+}
