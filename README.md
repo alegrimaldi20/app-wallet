@@ -8,4 +8,7 @@ React App test of Blockwallet
 
 https://test-blockwallet.netlify.app
 
+- Use the documentation of yarn, react and moment especially to format the date of the app.
+
+- Use react-web3 for the wallet thinking live data was going to be used.
 
