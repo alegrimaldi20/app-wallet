@@ -1,5 +1,5 @@
 # test-app
-React App test of Blockwallet
+React App of Blockwallet
 
 - yarn to install 
 
