@@ -1,5 +1,5 @@
 # Blockwallet-app
-React App of Blockwallet
+Wallet React App 
 
 - yarn to install 
 
