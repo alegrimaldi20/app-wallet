@@ -1,5 +1,5 @@
 # Wallet-app
-Wallet React App 
+## Wallet React App 
 
 - yarn to install 
 
